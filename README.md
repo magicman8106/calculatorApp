@@ -10,4 +10,4 @@ One thing I improved upon was the ability to continually perform opperations on 
  <li>String methods/manipulation</li>
 </ul>
 
-<p>This was still a introductory project that solidified Classes/DOM manipultion for me.</p>
+<p>As an intrductory project it was pretty fun and very informative.</p>
